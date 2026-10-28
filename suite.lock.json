@@ -1,0 +1,10 @@
+{
+  "assets": [
+    "gitignore",
+    "brain-wiki"
+  ],
+  "files": {},
+  "node": "buyFinder",
+  "packages": [],
+  "profile": "vault"
+}
